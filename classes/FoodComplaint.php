@@ -20,4 +20,5 @@ class FoodComplaint extends Complaint {
 
     }
 
+
 }

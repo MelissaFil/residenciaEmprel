@@ -17,4 +17,7 @@ Class Complaint {
         $this->telefoneReclamante = $telefoneReclamante;
     }
 
+    public function Reclamar(){
+
+    }
 }
